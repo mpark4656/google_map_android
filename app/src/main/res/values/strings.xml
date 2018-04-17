@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Google Map</string>
+    <string name="title_activity_main">Location Saver</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_service_not_available">Google Service is not available.</string>
+    <string name="network_service_not_available">Network Service is not available.</string>
+    <string name="invalid_lat_long_used">The latitude and longtitude are invalid.</string>
+    <string name="no_address_found">The address could not be found.</string>
+    <string name="address_found">The address was successfully found.</string>
+    <string name="no_geocoder_available">The geocoder is not available.</string>
+</resources>
